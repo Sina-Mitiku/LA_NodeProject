@@ -1,4 +1,4 @@
-Note: This is a group project which I was part of. I contributed almost in all of the project components specially react.
+Note: This is a group project which I was part of a software development bootcamp program. I contributed almost in all of the project components specially react.
 
 # Kraken Pets!
 
